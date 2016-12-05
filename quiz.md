@@ -31,6 +31,7 @@
 8. List two ways to get all the elements by class 'cat'
 
   document.querySelectorAll(".cat");
+  
   document.getElementsByClassName("cat");
 
 9. List two ways to retrieve the element with id "goat"
