@@ -30,23 +30,22 @@
 
 8. List two ways to get all the elements by class 'cat'
 
-  document.querySelectorAll(".cat");
-  
-  document.getElementsByClassName("cat");
+  document.querySelectorAll(".cat");  
+   document.getElementsByClassName("cat");
 
 9. List two ways to retrieve the element with id "goat"
 
-  document.querySelector("#goat");
+  document.querySelector("#goat");  
   document.getElementById("goat");
 
 10. List two ways to get all the li elements
 
-  document.querySelectorAll("li");
+  document.querySelectorAll("li");  
   document.getElementsByTagName("li");
 
 11. List two ways to get the first li element
 
-  document.querySelectorAll("li")[0];
+  document.querySelectorAll("li")[0];  
   document.getElementById("cats").firstChild.firstChild;
 
 12. How can we set the a given element to be hidden?
